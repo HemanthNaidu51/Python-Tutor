@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://pythontutor.onrender.com"  # Update this when deployed
+API_URL = "https://pythontutor.onrender.com/ask"  # Update this when deployed
 
 st.set_page_config(page_title="Python Tutor Chatbot", page_icon="🐍", layout="centered")
 st.title("🐍 Python Tutor Chatbot")
